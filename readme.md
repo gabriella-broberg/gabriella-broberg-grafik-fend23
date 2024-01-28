@@ -38,5 +38,10 @@ fa-brands fa-snapchat
 ## Viktiga anteckningar
 - Alla detaljer om använda material och designval finns i Figma-filen och assets-mappen.
 
+## Licenser
+
+- Alla foton som används på hemsidan kommer från [Freepik](https://www.freepik.com/), och vi har licenser för deras användning.
+- Observera att licensinformationen för varje bild finns i ägarens (Freepik) användarvillkor. Se till att du överensstämmer med dessa villkor för att följa licenskraven.
+
 ## Övrigt
 Tack för att du bidrar till projektet. Vid frågor eller förbättringsförslag, vänligen kontakta projektledaren.
